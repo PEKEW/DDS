@@ -1,4 +1,4 @@
-classdef DDS < AlgorithmORIGTM
+classdef DDS < ALGORITHM
     % A Dual Decomposition Strategy 
     % Author: PeiKeWang
     % Last Modified: 2022.08.04
