@@ -6,7 +6,7 @@ classdef DDS < ALGORITHM
     % Parameters:
         % It <Number of Iterations>: 10
         % s_t <Start Tage of DDS>: 40000/40000/1000000/2000000 <-> D: 200/500/1000/2000
-        % s <w of Sliding Window>: 50
+        % s <step of Sliding Window>: 50
         % w <Size of Sliding Window>: 150
     
     methods
